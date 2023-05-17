@@ -1,2 +1,2 @@
 # .github
-Community health files for the @mantissecurity organization
+Community health files for the @vipyrsec organization
