@@ -6,7 +6,7 @@ Vipyr Security is an all-volunteer organization focused on the safety and securi
 
 To date, Vipyr Security has identified, reversed, analyzed, and reported over 500 malicious packages on the Python Package Index, and continually coordinates with cybersecurity organizations on the development of new tools and technologies to create a more secure open source ecosystem for users. 
 
-We maintain several closed source projects:
+We maintain several projects:
 * Dragonfly, a combined C2 and malware scanning service focused on the early identification, anlysis, and reporting of malicious packages on the Python Package Index. 
 * Alessia, a Discord-bot based front end for interaction with the Dragonfly API. 
 * Vipyr Deobfuscator, an all-in-one deobfuscation suite to facilitate rapid reversal and analysis of Python based malware. 
